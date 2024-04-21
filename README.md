@@ -1,5 +1,5 @@
 ## Applying Non-Fourier and AST-Structural Relative Position Representations in Transformer for Source Code Summarization
->paper link
+>[paper link](https://ieeexplore.ieee.org/document/10400421)
 
 ### Installing NFASRPR-TRANS
 
@@ -110,7 +110,7 @@ While training and evaluating the models, a list of files are generated inside a
 
 ### Acknowledgement
 
-We borrowed and modified code from [Transformer](https://github.com/facebookresearch/DrQA), [SiT](https://github.com/OpenNMT/OpenNMT-py). We would like to expresse our gratitdue for the authors of these repositeries.
+We borrowed and modified code from [NeuralCodeSum](https://github.com/facebookresearch/DrQA), [SiT](https://github.com/OpenNMT/OpenNMT-py). We would like to expresse our gratitdue for the authors of these repositeries.
 
 
 ### Citation
