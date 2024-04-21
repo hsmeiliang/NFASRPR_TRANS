@@ -110,7 +110,7 @@ While training and evaluating the models, a list of files are generated inside a
 
 ### Acknowledgement
 
-We borrowed and modified code from [NeuralCodeSum](https://github.com/facebookresearch/DrQA), [SiT](https://github.com/OpenNMT/OpenNMT-py). We would like to expresse our gratitdue for the authors of these repositeries.
+We borrowed and modified code from [NeuralCodeSum](https://github.com/wasiahmad/NeuralCodeSum), [SiT](https://github.com/gingasan/sit3). We would like to expresse our gratitdue for the authors of these repositeries.
 
 
 ### Citation
